@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @arafay993, I live in Pakistan and I am a Full Stack Software Engineer. I have also done Masters in Data Science.
-- 👀 I’m interested in Python, Golang, JavaScript, Linux and Cloud Integration.
-- 🌱 I’m currently learning Golang and new future technologies.
-- 💞️ I’m looking to collaborate on Python related web-frameworks such as DJango and Golang Beego.
+### About Me :
+- 👋 Hi, I’m Abdul Rafay, I am a Fullstack Software Engineer. I have done Bachelor in Computer Science and Master in Data Science.
+- 👀 I’m interested in Python, Golang, JavaScript, Linux and Cloud/Data Systems Integration.
+- 🌱 I’m currently learning Kubernetes for operational tasks.
+- 💞️ I’m looking to work on Python related web-frameworks such as Django or Golang Beego.
 - 📫 You can reach me via my email abdulrafay993@gmail.com
 
 <!---
