@@ -1,18 +1,30 @@
 ### About Me :
-I am an experienced Software Engineer with 6 years of expertise in building multi-tenant SaaS applications in Kubernetes environment. Consistently achieving on-time project delivery with a track
-record of leading successful projects. Currently contributing to a reputable Silicon Valley
-company for over 2.5 years, showcasing a strong foundation in security domains.
+As a seasoned Software Engineer with over 7 years of experience, I specialize in developing high-performance, concurrent multi-tenant SaaS applications that serve millions of users globally. For the past 3.5 years at a prominent Silicon Valley company, I've consistently demonstrated my ability to lead complex projects with meticulous planning and timely delivery, leveraging my expertise in AI, data systems, and cloud security.
 
-I am skilled in Python, JavaScript, Golang, Rego (Open Policy Agent), Linux, Kubernetes, Graph DB Modeling, OpenCypher/Gremlin, Microservices, REST/GraphQL APIs & Security Auditing of Cloud Services.
+My technical proficiency spans multiple domains, including:
 
-Things I like to do includes:
-- Design, implementing, maintaining and deploying highly scalable & concurrent applications on Kubernetes.
-- Developing Go based microservices for seamless Interactions with distributed systems.
-- Integrating cutting-edge data-driven technologies with contemporary security best practices for next-gen solutions.
-- Building advanced Knowledge Graphs empowering complex use-case solutions.
-- Customize & integrate Open-source softwares with proprietary software.
+Backend Development: Golang, Python, JavaScript
+Cloud & Infrastructure: Kubernetes, Linux, NGINX, Multi-cloud architectures, Microservices
+Databases: SQL & NoSQL DB, Graph DB, OpenCypher/Gremlin
+API Development: REST, GraphQL, gRPC
+Security: Rego (Open Policy Agent), Cloud Security Auditing, Zero-trust implementation
 
-Current focus is on Data Privacy, Data Security, Data Governance, Contextual Data Intelligence, Data Access Control, Data Security Posture Management (DSPM), Cloud Integration and Data System Integration (SaaS/IaaS/Private Cloud).
+I excel in architecting and implementing:
+
+Highly available, fault-tolerant web applications using modern cloud technologies
+Scalable microservices in Go for distributed system integration
+Advanced knowledge graph solutions for complex business challenges
+Custom integrations between open-source and proprietary systems
+Secure multi-cloud deployments with robust data protection
+
+Currently, I focus on comprehensive data solutions encompassing:
+
+Data Observability, Privacy, Security, and Governance
+Regulatory Compliance
+Hybrid Multi-cloud Integration
+Enterprise System Integration (SaaS/IaaS/Private Cloud)
+Security for AI, Cloud, and Kubernetes environments (DSPM)
+On-premises Solution Architecture
 
 <!---
 arafay993/arafay993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
